@@ -3,7 +3,7 @@
 #include <list>
 #include <iterator>
 #include <time.h>
-#include "./solution/ClimbingStairs.h"
+#include "./solution/MergeSortedArray.h"
 using namespace std;
 
 int main(void)
