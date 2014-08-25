@@ -3,7 +3,7 @@
 #include <list>
 #include <iterator>
 #include <time.h>
-#include "./solution/MergeSortedArray.h"
+#include "./solution/RotateImage.h"
 using namespace std;
 
 int main(void)
